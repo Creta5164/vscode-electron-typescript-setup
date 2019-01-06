@@ -215,6 +215,11 @@ https://github.com/electron/electron-quick-start-typescript/blob/master/src/main
 
 ### 3. 디버그 실행하기
 
+시작하기 전에, vscode확장으로 Debugger for Chrome `msjsdiag.debugger-for-chrome`을 설치해줍니다.  
+확장은 좌측 아이콘 메뉴 중에 사각형 모양으로 된 아이콘입니다.
+
+설치가 끝났다면 **다시 로드** 버튼을 클릭해 vscode를 다시시작합니다.
+
 이제 vscode의 좌측에 있는 아이콘 중, 네번째에 있는 곤충 아이콘(디버그 메뉴)를 클릭합니다.  
 그러면 맨 위에 디버그 버튼을 볼 수 있는데, 그 옆에 `Electron: Main`을 클릭해서 `Electron: All`로 바꿔줍니다.  
 그런 다음, 초록색 버튼을 클릭합니다.
